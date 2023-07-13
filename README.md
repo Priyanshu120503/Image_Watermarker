@@ -7,7 +7,7 @@ Basic Image Watermarker created in Python using Tkinter and Pillow
 ### After clicking Add Image Button, a file dialog opens
 ![Open file](https://github.com/Priyanshu120503/Image_Watermarker/assets/103837992/9ea129e8-309a-4687-a887-74e6507030d5)
 
-### Writing smoe text and changing it's configuration
+### Writing some text and changing it's configuration
 ![Text_1](https://github.com/Priyanshu120503/Image_Watermarker/assets/103837992/cb572033-7d73-43e8-b011-6180f373e12e)
 
 #### Making the text Bold Italic and changing it's X and Y position
